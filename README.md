@@ -9,19 +9,26 @@ Screenshots
 
 Getting Started
 Dependencies
+
 *.Just need a working browser
 
 Installing
+
 *.you need the html and css to be in same folder for editing your own program.
 *.If you want to visit, you can can open the website and view.
 
 Executing program
+
 How to run the program
 Step-by-step bullets
+
 *.just open the website, and look at my page.
 *. You can use the code files free of cost(MIT license)
+
 Help
+
 If the website is down i will try to keep it active.
 
 License
+
 This project is licensed under the SanthoshS-coding License - see the LICENSE.md file for details.
