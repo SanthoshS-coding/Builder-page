@@ -1,10 +1,10 @@
 # Builder Page
 
-This project is my first trial and it has my details.
+This project is my first trial and it has my personal details and i made this for the builder page.
 
 ## Description
 
-The website is active and its not the best but i am not best at web developing so check the demo 
+The builder page has my personal portfolio and it shows my growth over the years and it loads lightweight and fast because its minimal code, it has a clean structure, accessibility and a great front end design overall.
 
 ## Screenshots
 
@@ -14,23 +14,25 @@ The website is active and its not the best but i am not best at web developing s
 
 ### Dependencies
 
-* Just need a working browser
+* Any modern web browser(e.g. google chrome, Firefox, Brave, Opera, etc.)
+* A code editor(e.g. VS code) if you wish to modify the code.
 
 ### Installing
 
-* you need the html and css to be in same folder for editing your own program.
-* If you want to visit, you can can open the website and view.
+* Clone the repository or download the zip file to your local machine for editing it and making it your own. Ensure both html and CSS files are in same folder so that the styles and links work properly.
+* If you want to visit, you can can open the website demo and view my details or how the overall design is yourself.
 
 ## Executing program
 
 ### How to run the program
 
-* just open the website, and look at my page.
-* You can use the code files free of cost(MIT license)
+* Open the demo link on the web browser: https://builderpages.netlify.app/
+* You can use the code files for editing free of cost(MIT license)
 
 ## Help
 
-If the website is down i will try to keep it active.
+* Make sure your CSS is located in same folder as HTML for editing otherwise the styyle will not load
+* If the demo link is unreachable(which is very rare) feel free to open an issue in this repository.
 
 ## License
 
